@@ -1,4 +1,5 @@
 ## CALCULADORA 
+![imagen calculadora](assets/img/calculadora.png)
 
 ### INTEGRANTES
 
